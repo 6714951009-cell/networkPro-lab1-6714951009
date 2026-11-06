@@ -1,7 +1,7 @@
 # networkPro-lab1-รหัสนักศึกษา
 
-**ชื่อ-สกุล:** ชื่อ นามสกุล
-**รหัสนักศึกษา:** XXXXXXXXXX
+**ชื่อ-สกุล:** นายวสิษฐ์พล ชวลิต
+**รหัสนักศึกษา:** 6714951099
 **รายวิชา:** Network Programming — Lab 1
 
 ---
@@ -27,8 +27,8 @@ networkPro-lab1-รหัสนักศึกษา/
 ## วิธีดาวน์โหลดและรันโปรแกรม
 
 ```bash
-git clone https://github.com/ชื่อผู้ใช้กิตฮับ/networkPro-lab1-รหัสนักศึกษา.git
-cd networkPro-lab1-รหัสนักศึกษา
+git clone https://github.com/6714951009-cell/networkPro-lab1-6714951009.git
+cd networkPro-lab1-6714951009
 ```
 
 ### 1. TCP Echo Server
